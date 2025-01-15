@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ns-rloffelmacher, aka Randy Loffelmacher
 - 👀 I’m interested in 3d printing, home-brewing, and darts
-- 🌱 I’m currently learning my way around all the systems we have in place here at Netskope
-- 💞️ I’m looking to collaborate on build pipeline, kubernetes work, most anything really
 - 📫 Slack me if anything!
 
 <!---
